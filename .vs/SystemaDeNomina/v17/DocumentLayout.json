@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\systemadenomina\\systemadenomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|solutionrelative:systemadenomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\systemadenomina\\systemadenomina\\empleadossons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|solutionrelative:systemadenomina\\empleadossons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\systemadenomina\\systemadenomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|solutionrelative:systemadenomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\systemadenomina\\systemadenomina\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\Program.cs",
               "RelativeDocumentMoniker": "SystemaDeNomina\\Program.cs",
               "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\Program.cs",
               "RelativeToolTip": "SystemaDeNomina\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAsAAAAiAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T00:35:38.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmpleadosSons.cs",
               "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\EmpleadosSons.cs",
               "RelativeDocumentMoniker": "SystemaDeNomina\\EmpleadosSons.cs",
               "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\EmpleadosSons.cs",
               "RelativeToolTip": "SystemaDeNomina\\EmpleadosSons.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO0AAAABAAAA",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAUwOQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T01:47:09.197Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "SystemaDeNomina\\Empleado.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T01:47:06.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T01:47:06.097Z"
             }
           ]
         }

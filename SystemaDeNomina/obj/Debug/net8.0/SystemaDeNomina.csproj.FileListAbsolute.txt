@@ -12,3 +12,4 @@ C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\
 C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.pdb
 C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.genruntimeconfig.cache
 C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\ref\SystemaDeNomina.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.sourcelink.json

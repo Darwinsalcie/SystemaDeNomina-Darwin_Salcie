@@ -228,7 +228,7 @@ namespace SystemaDeNomina
 
         public override string ToString()
         {
-            return $"Empleado pagado por comisión: {base.ToString()}\nSueldo base: {sueldoBase}\nVentas brutas: {ventasBrutas:C}\nComisión: {base.CalcularIngreso()}";
+            return $"Salaraio + {base.ToString()}\nSueldo base: {sueldoBase}\nVentas brutas: {ventasBrutas:C}\nComisión: {base.CalcularIngreso()}";
         }
 
     }
