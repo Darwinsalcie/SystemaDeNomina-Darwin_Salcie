@@ -4,6 +4,8 @@
 namespace SystemaDeNomina
 {
 
+    //Clase Empleado Asalriado
+
     #region EmpleadoAsalariado
     public class EmpleadoAsalariado : Empleado
     {
@@ -40,6 +42,8 @@ namespace SystemaDeNomina
 
     #endregion
 
+
+    //Clase Empleado por horas
 
     #region EmpleadorPorHoras
     public class EmpleadoPorHoras : Empleado
@@ -123,6 +127,8 @@ namespace SystemaDeNomina
     #endregion
 
 
+    //Clase Empleado por comision
+
     #region EmpleadoPorComision
     public class EmpleadoPorComision : Empleado
     {
@@ -185,6 +191,8 @@ namespace SystemaDeNomina
 
     #endregion
 
+
+    //Clase Salario + Comision
 
     #region EmpleadosMasComisión
 
