@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\systemadenomina\\systemadenomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|solutionrelative:systemadenomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\systemadenomina\\systemadenomina\\empleadossons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|solutionrelative:systemadenomina\\empleadossons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|c:\\users\\darwi\\onedrive - universidad apec - acad\u00E9mico\\c#\\itla\\systemadenomina\\systemadenomina\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA532F06-03D2-41EC-AB64-BB56663D7576}|SystemaDeNomina\\SystemaDeNomina.csproj|solutionrelative:systemadenomina\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\Program.cs",
+              "RelativeDocumentMoniker": "SystemaDeNomina\\Program.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\Program.cs",
+              "RelativeToolTip": "SystemaDeNomina\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:35:38.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadosSons.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\EmpleadosSons.cs",
+              "RelativeDocumentMoniker": "SystemaDeNomina\\EmpleadosSons.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\EmpleadosSons.cs",
+              "RelativeToolTip": "SystemaDeNomina\\EmpleadosSons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:47:09.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\Empleado.cs",
+              "RelativeDocumentMoniker": "SystemaDeNomina\\Empleado.cs",
+              "ToolTip": "C:\\Users\\darwi\\OneDrive - Universidad APEC - Acad\u00E9mico\\C#\\ITLA\\SystemaDeNomina\\SystemaDeNomina\\Empleado.cs",
+              "RelativeToolTip": "SystemaDeNomina\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:47:06.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

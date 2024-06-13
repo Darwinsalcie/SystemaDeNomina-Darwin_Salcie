@@ -1,0 +1,14 @@
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\bin\Debug\net8.0\SystemaDeNomina.exe
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\bin\Debug\net8.0\SystemaDeNomina.deps.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\bin\Debug\net8.0\SystemaDeNomina.runtimeconfig.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\bin\Debug\net8.0\SystemaDeNomina.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\bin\Debug\net8.0\SystemaDeNomina.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.AssemblyInfoInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.AssemblyInfo.cs
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.csproj.CoreCompileInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\refint\SystemaDeNomina.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\SystemaDeNomina.genruntimeconfig.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\SystemaDeNomina\SystemaDeNomina\obj\Debug\net8.0\ref\SystemaDeNomina.dll
